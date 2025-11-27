@@ -1,18 +1,18 @@
-## assigment 0
-## 1. Why is data mining sometimes used to describe the entire knowledge discovery process?
+# Assignment 0 
 
+## 1. Why is data mining sometimes used to describe the entire knowledge discovery process?
 Data mining is the process of analyzing large datasets to discover
 patterns, trends, and useful information using algorithms and
 statistical methods.
 
-**Answer:**
+**Answer:**\
 Although data mining is technically only one step in the Knowledge
 Discovery in Databases (KDD) process, many industries and media sources
-use the term to describe the entire workflow. This happens because:
-Data mining is the most *visible* and *exciting* part of KDD, it
-produces the actual insights.People outside academia are less
+use the term to describe the entire workflow. This happens because: -
+Data mining is the most *visible* and *exciting* part of KDD---it
+produces the actual insights. - People outside academia are less
 familiar with preprocessing, cleaning, or transformation steps, so they
-use "data mining" as a simpler umbrella term.Companies often market
+use "data mining" as a simpler umbrella term. - Companies often market
 their products as "data mining tools" even when they include full KDD
 functionalities.
 
@@ -57,3 +57,6 @@ or criteria.
 - Removes irrelevant information
 - Focuses on rows/columns that are meaningful
 - Reduces dataset size for faster analysis
+
+
+
